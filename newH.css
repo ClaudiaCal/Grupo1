@@ -1,0 +1,53 @@
+header{
+    height: 60px;
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+    text-shadow: mediumslateblue;
+    
+}
+body{
+    background-color:rgb(8, 211, 177);
+}
+section{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+section article{
+
+    height: 5px;
+    width: 10px;
+    margin-left: 0px;
+    margin-right: 300px;
+    margin-top: 150px;
+    margin-bottom: 15px;
+
+}
+article{
+    display: block;
+}
+article{
+    image-rendering: auto;
+}
+
+img{
+    width: 300px;
+    height: 150px;
+    margin: 5px;
+    border: cyan;
+}
+a :hover{  
+    display: inline-table;
+    transform: rotate(300deg .5s);
+    transform: scale(90px, 80px);
+    width: 600px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-bottom: 5%;
+    margin-right: 2%;
+    border-color: olivedrab;
+}
